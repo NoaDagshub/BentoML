@@ -16,3 +16,5 @@ pyenchant
 Jinja2>=3.1
 sphinx-autobuild
 sphinx-hoverxref
+certifi>=2022.12.7 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
